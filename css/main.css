@@ -1,0 +1,24 @@
+body{
+    background-color: #FBB27A ;
+}
+.title{
+    color: #000;
+    font-size: 52px;
+    font-weight: 600;
+}
+
+input{
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    /* margin-left: 10px; */
+}
+.img{
+    overflow: hidden;;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.card {
+    display: flex !important;
+    border: 1px solid red;
+}
